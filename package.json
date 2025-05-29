@@ -1,7 +1,11 @@
 {
 	"name": "@loybung/unicode-fonts",
 	"version": "0.0.1",
-	"description": "",
+	"description": "Convert regular text to stylized Unicode font variants such as bold, italic, monospace, 𝟏𝟐𝟑 numbers, Thai digits, and more.",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/loybung/unicode-fonts"
+	},
 	"main": "dist/index.js",
 	"module": "dist/index.mjs",
 	"types": "dist/index.d.ts",
