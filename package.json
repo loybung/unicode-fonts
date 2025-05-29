@@ -1,0 +1,20 @@
+{
+	"name": "@loybung/unicode-fonts",
+	"version": "0.0.1",
+	"description": "",
+	"main": "dist/index.js",
+	"module": "dist/index.mjs",
+	"types": "dist/index.d.ts",
+	"scripts": {
+		"dev": "tsup --watch",
+		"build": "tsup",
+		"prepare": "npm run build"
+	},
+	"keywords": [],
+	"author": "loybung",
+	"license": "MIT",
+	"devDependencies": {
+		"tsup": "^8.5.0",
+		"typescript": "^5.8.3"
+	}
+}
